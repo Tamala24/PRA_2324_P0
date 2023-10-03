@@ -6,4 +6,3 @@ Clase BrazoRobotico:
 - Un método coger()
 - Un método soltar()
 - Un método mover(double, double, double)
-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
